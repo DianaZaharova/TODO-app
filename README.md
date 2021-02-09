@@ -14,7 +14,7 @@
 
 ### В приложении 3 страницы
 ###  Обо мне
-![Иллюстрация к проекту](https://github.com/DianaZaharova/TODO-app/raw/master/img_readme/about.png)
+![Иллюстрация к проекту](https://github.com/DianaZaharova/TODO-app/raw/master/img_readme/About.png)
 
 ------------
 

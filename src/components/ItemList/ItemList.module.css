@@ -1,0 +1,12 @@
+.list {
+  list-style-type: none;
+  padding: 0 20px;
+}
+
+.done {
+  display: none;
+}
+
+.list_item {
+  display: block;
+}

@@ -1,0 +1,28 @@
+.item {
+  color: #000;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  padding: 9px;
+}
+
+.done {
+  color: #c4c4c4;
+  text-decoration: line-through;
+}
+
+.wrap {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.delete_icon {
+  opacity: 0.5;
+  transition: opacity 0.2s ease-out;
+  cursor: pointer;
+}
+
+.delete_icon:hover{
+  opacity: 1;
+}

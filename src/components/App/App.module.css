@@ -1,0 +1,45 @@
+.container {
+  display: flex;
+  width: 70%;
+  flex-direction: column;
+  margin: 0 auto;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-around;
+}
+
+.list {
+  outline: none;
+}
+
+.link {
+  text-decoration: none;
+  color: #000;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  outline: none;
+}
+
+.link_item {
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  margin: 10px 20px 10px 20px;
+  font-size: 18px;
+  opacity: 0.5;
+  transition: opacity 0.2s ease-out;
+  text-decoration: none;
+  outline: none;
+  display: inline-block;
+}
+
+.link_item:hover {
+  opacity: 1;
+}
+
+@media only screen and (min-width: 100px) and (max-width: 750px) {
+  .container {
+    width: 100%;
+  }
+}

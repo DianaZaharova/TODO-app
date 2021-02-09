@@ -1,0 +1,27 @@
+body {
+  background-color: #f5f5f5;
+  margin-top: 80px;
+}
+
+.container {
+  margin: auto;
+  width: 70%;
+  background-color: #fff;
+  padding: 20px;
+}
+
+.title {
+  margin: 0 0 10px 0;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  font-size: 60px;
+  color: #e4dbda;
+  margin-top: 20px;
+}
+
+@media only screen and (min-width: 100px) and (max-width: 750px) {
+  .container {
+    width: 90%;
+  }
+}

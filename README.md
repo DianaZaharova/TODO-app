@@ -5,7 +5,7 @@
 - ***CSS***
 - ***React***
 - ***material UI***
-- ***Roating***
+- ***Routing***
 - ***Fetch***
 
 ### [Ссылка на приложение](https://nervous-cray-7b1e0d.netlify.app)
